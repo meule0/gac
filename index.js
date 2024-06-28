@@ -1,4 +1,4 @@
-var burger = $('.menu-trigger.type7');
+var burger = $('.menu-trigger');
 
 burger.each(function(index){
   var $this = $(this);
