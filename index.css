@@ -1,2 +1,7 @@
-.GAC_BG{
-  background-image: url("/images/GAC_MAIN_TEXT_REAL-001.png");}
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('images/GAC_MAIN_TEXT_REAL-001.png');
+  background-repeat : no-repeat;
+  background-size : cover;
+}
