@@ -23,6 +23,8 @@ nav{width:80%;overflow:hidden;height:80px;background-color:#1b20354f;margin:50px
 }
 
 .GAC_BG
-{width:300px;
-  height:300px;
-  background-image: url("/images/GAC_MAIN_TEXT_REAL-001.png");}
+{
+  background-image: url("/images/GAC_MAIN_TEXT_REAL-001.png");
+  background-size: contain;
+  background-position: top;
+  background-attachment: scroll;}
