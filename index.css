@@ -1,7 +1,2 @@
-body {
-  height: 100vh;
-  width: 100vw;
-  background-image: url('images/GAC_MAIN_TEXT_REAL-001.png');
-  background-repeat : no-repeat;
-  background-size : cover;
-}
+.hello {width: 500px;    height: 500px;    border: solid;
+  background-image: url("/images/GAC_MAIN_TEXT_REAL-001.png");}
