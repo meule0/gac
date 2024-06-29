@@ -1,3 +1,5 @@
 .hello {
-  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   background-image: url("/images/GAC_MAIN_TEXT_REAL-001.png");}
