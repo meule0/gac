@@ -1,22 +1,3 @@
-body {overflow:hidden}
-
-#nav2>a {
-  display: block; /* a태그는 글자성격 = inline */
-  float: left;
-  font-size: 30px;
-  font-weight: 900;
-  line-height: 80px;
-  padding: 0 30px;
-}
-#nav2>ul {
-  float: right;
-}
-#nav2>ul li {
-  float: left;
-  padding: 0 30px;
-  line-height: 80px;
-}
-
 .GAC_BG{
   background-image: url("/images/GAC_MAIN_TEXT_REAL-001.png");
   background-size: contain;
